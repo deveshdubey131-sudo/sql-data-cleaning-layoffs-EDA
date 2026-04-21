@@ -33,5 +33,5 @@ Converted date from TEXT to DATE format
 Removed rows with no useful layoff data
 Dropped unnecessary columns
 
-📈 Outcome
+Outcome
 Clean, consistent dataset ready for analysis and visualization
