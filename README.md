@@ -1,4 +1,4 @@
-# sql-data-cleaning-layoffs
+# sql-data-cleaning-layoffs -- Exploratory-Data-Analysis-EDA
 
 SQL Data Cleaning Project – Layoffs Dataset
 
@@ -31,7 +31,28 @@ Converted date from TEXT to DATE format
 
 6. Final Cleanup
 Removed rows with no useful layoff data
+
+
 Dropped unnecessary columns
+
+-- Exploratory-Data-Analysis-EDA
+
+Objectives
+Identify maximum and minimum layoffs
+Analyze companies with 100% layoffs
+Determine top companies by layoffs
+Analyze layoffs by industry and country
+Understand yearly trends
+Rank top companies by layoffs per year
+
+--  Key Insights Summary
+1.Layoffs peaked in 2022
+2.Amazon had the highest layoffs among companies
+3. Consumer industry was most impacted
+4. United States faced the largest number of layoffs
+5. 116 companies had complete (100%) layoffs
+
+
 
 Outcome
 Clean, consistent dataset ready for analysis and visualization
